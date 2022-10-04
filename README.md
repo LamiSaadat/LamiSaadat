@@ -1,6 +1,6 @@
 ## Hi! I'm Lamisa 👩🏻‍🦱
 
-### I am a business grad turned full-stack developer with an interest in back-end development :oil_drum:	
+### I am a business grad turned full-stack developer!	
 
 - 👩🏻‍🎓 I’m a recent bootcamp graduate.
 - 🌱 I’m currently learning PostgreSQL and diving deeper into React and JS.
