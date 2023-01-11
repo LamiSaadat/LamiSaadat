@@ -2,7 +2,7 @@
 
 ### I am a business grad turned full-stack developer!	
 
-👩🏻‍🎓 I’m a recent bootcamp graduate and looking for my first dev role!<br>🌱 I’m currently learning PostgreSQL and exploring the world of Data Structures & Algorithms.<br>⚡ Fun fact: I used to be a product manager for apps, which led me to change my career!<br>🌆 When I'm not coding, you can find me wandering the city clicking pictures, and trying out new food spots.<br>😄 Pronouns: She/Her
+👩🏻‍🎓 I’m a recent bootcamp graduate and looking for my first dev role!<br>🌱 I’m currently learning TypeScript, unit testing & exploring the world of Data Structures & Algorithms.<br>⚡ Fun fact: I used to be a product manager for apps, which led me to change my career!<br>🌆 When I'm not coding, you can find me wandering the city clicking pictures, and trying out new food spots.<br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
