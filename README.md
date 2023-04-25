@@ -85,6 +85,3 @@ https://user-images.githubusercontent.com/69886705/233861777-47462dfc-95a2-434c-
 </p>
 
 
-
-<h4>GitHub Stats</h4>
-<div><a href="[http://github.com/henryluan95"><img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=henryluan95&show_icons=true&count_private=true&theme=nightowl](https://github-readme-stats.vercel.app/api?username=LamiSaadat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"</a></div>
