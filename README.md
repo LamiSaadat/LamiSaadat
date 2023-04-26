@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Lamisa 👩🏻‍🦱</h1>
 
-<h3 align="center">I'm a product manager turned full stack web developer. (Ask me why and make me a millionaire 💸) </h3>
+<h3 align="center">I'm a product manager turned full stack software engineer. (Ask me why and make me a millionaire 💸) </h3>
 
 <p align="center">
  ✨
