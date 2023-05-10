@@ -18,8 +18,25 @@
 <br/>
 🌱&nbsp; At the moment, I'm learning Python and exploring the world of Data Structures & Algorithms.
 <br/>
-🌆&nbsp; When I'm not coding, you can find me wandering the city clicking pictures, trying out new food spots, or at the library perfecting my piano skills 🎹.
-<br/>
+<!-- <table>
+ <tr>
+  <td halign="center" padding-left="100px"> -->
+   <p>:city_sunset: Most of my days consist of almost everything you see in the video! The only thing that I don't have on record is me being unable to sit still when there's music playing :dancer:</p>
+<!--    <br> -->
+   
+<div align="center">
+ 
+https://github.com/LamiSaadat/LamiSaadat/assets/69886705/7c6ec1db-8a31-4fbd-9a6c-96e210919ba3
+ 
+ </div>
+
+<!-- 
+  </td>
+ </tr>
+</table> -->
+
+
+
 
 <h2 align="center">💡Projects Spotlight💡</h2>
 <table bordercolor="#66b2b2">
