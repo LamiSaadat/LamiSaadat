@@ -14,14 +14,14 @@
  ✨
 </p>
 
-👩🏻‍💻&nbsp; I'm currently freelancing as a frontend engineer but am open for hire.
+👩🏻‍💻&nbsp; I'm currently building innovative apps and exploring AI integrations, while open to exciting opportunities.
 <br/>
-🌱&nbsp; At the moment, I'm learning Python and exploring the world of Data Structures & Algorithms.
+🌱&nbsp; At the moment, I'm diving deeper into Redis and refining my skills in Python, Django, and Vue.js.
 <br/>
 <!-- <table>
  <tr>
   <td halign="center" padding-left="100px"> -->
-   <p>:city_sunset: Most of my days consist of almost everything you see in the video! The only thing that I don't have on record is me being unable to sit still when there's music playing :dancer:</p>
+   <p>:city_sunset: When I'm not coding, you'll likely find me brainstorming ideas for my next project, taking long walks through the city, or dancing whenever music plays!:dancer:</p>
 <!--    <br> -->
    
 <div align="center">
